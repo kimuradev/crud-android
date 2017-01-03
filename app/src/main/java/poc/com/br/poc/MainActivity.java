@@ -62,4 +62,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    public boolean checker(String s){
+        return true;
+    }
+
 }
