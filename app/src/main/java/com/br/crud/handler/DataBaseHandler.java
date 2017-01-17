@@ -1,4 +1,4 @@
-package poc.com.br.poc.handler;
+package com.br.crud.handler;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import java.util.ArrayList;
 import java.util.List;
 
-import poc.com.br.poc.model.Contact;
+import com.br.crud.model.Contact;
 
 /**
  * Created by Leandro on 02/01/2017.

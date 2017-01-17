@@ -1,9 +1,13 @@
-package poc.com.br.poc;
+package com.br.crud;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.SmallTest;
 import android.widget.Button;
 import android.widget.EditText;
+
+import com.br.crud.MainActivity;
+
+import poc.com.br.poc.R;
 
 /**
  * Created by lkimura on 03/01/17.

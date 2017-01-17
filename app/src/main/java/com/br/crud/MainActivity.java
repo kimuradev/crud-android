@@ -1,19 +1,17 @@
-package poc.com.br.poc;
+package com.br.crud;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ListView;
 import android.widget.Toast;
 
-import java.util.List;
+import poc.com.br.poc.R;
 
-import poc.com.br.poc.handler.DataBaseHandler;
-import poc.com.br.poc.model.Contact;
+import com.br.crud.handler.DataBaseHandler;
+import com.br.crud.model.Contact;
 
 public class MainActivity extends AppCompatActivity {
 

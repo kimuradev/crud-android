@@ -1,4 +1,6 @@
-package poc.com.br.poc;
+package com.br.crud;
+
+import com.br.crud.MainActivity;
 
 import junit.framework.TestCase;
 

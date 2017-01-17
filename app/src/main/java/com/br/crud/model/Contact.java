@@ -1,4 +1,4 @@
-package poc.com.br.poc.model;
+package com.br.crud.model;
 
 /**
  * Created by Leandro on 02/01/2017.

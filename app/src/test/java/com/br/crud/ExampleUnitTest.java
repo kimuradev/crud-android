@@ -1,4 +1,4 @@
-package poc.com.br.poc;
+package com.br.crud;
 
 import android.app.Activity;
 import android.content.Context;

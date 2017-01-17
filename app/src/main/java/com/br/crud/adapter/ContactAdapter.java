@@ -1,4 +1,4 @@
-package poc.com.br.poc.adapter;
+package com.br.crud.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import android.widget.TextView;
 import java.util.List;
 
 import poc.com.br.poc.R;
-import poc.com.br.poc.model.Contact;
+import com.br.crud.model.Contact;
 
 /**
  * Created by Leandro on 02/01/2017.

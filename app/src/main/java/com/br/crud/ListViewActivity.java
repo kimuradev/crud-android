@@ -1,4 +1,4 @@
-package poc.com.br.poc;
+package com.br.crud;
 
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
@@ -8,9 +8,11 @@ import android.widget.ListView;
 
 import java.util.List;
 
-import poc.com.br.poc.adapter.ContactAdapter;
-import poc.com.br.poc.handler.DataBaseHandler;
-import poc.com.br.poc.model.Contact;
+import poc.com.br.poc.R;
+
+import com.br.crud.adapter.ContactAdapter;
+import com.br.crud.handler.DataBaseHandler;
+import com.br.crud.model.Contact;
 
 /**
  * Created by Leandro on 02/01/2017.
